@@ -15,6 +15,8 @@ you = ["straight", "lgbtq"]
 
 print(f"you are 100% {random.choice(you)}")
 ```
-you can add other info here
+
+<h1 align="center"> Documentation </h1>
+<p align="center"> add documentation or a readthedocs libnk here idfk </p>
 
 ![Footer](./footer.png)
