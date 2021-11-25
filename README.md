@@ -17,6 +17,6 @@ print(f"you are 100% {random.choice(you)}")
 ```
 
 <h1 align="center"> Documentation </h1>
-<p align="center"> add documentation or a readthedocs libnk here idfk </p>
+<p align="center"> add documentation or a readthedocs link here idfk </p>
 
 ![Footer](./footer.png)
